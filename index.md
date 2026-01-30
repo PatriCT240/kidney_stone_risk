@@ -1,4 +1,4 @@
-# 🧬 Renal Lithiasis Risk Prediction  
+# 🧬 Kidney Stone Risk Prediction
 ### Clinical Machine Learning for Early Kidney Stone Risk Stratification
 
 ---
